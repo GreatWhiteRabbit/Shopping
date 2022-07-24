@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5d2fdf6-386a-4835-8388-ff27535fff57" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29bJRslI5uQqVe8FhjwdxJg0Koa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/vue项目/Shopping/mall/src/assets/img/icon&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IDEA\\IntelliJ IDEA 2022.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vue项目\Shopping\mall\src\assets\img\icon" />
+      <recent name="E:\vue项目\Shopping\mall\src\assets\img\detail" />
+      <recent name="E:\vue项目\Shopping\mall\src\assets\img\icon-active" />
+      <recent name="E:\vue项目\Shopping\mall\src\assets\img" />
+      <recent name="E:\vue项目\Shopping\mall\src\assets\CSS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d2fdf6-386a-4835-8388-ff27535fff57" name="Changes" comment="" />
+      <created>1653375849584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653375849584</updated>
+      <workItem from="1653375851869" duration="4549000" />
+      <workItem from="1653392037141" duration="9555000" />
+      <workItem from="1653442256133" duration="3253000" />
+      <workItem from="1653452330636" duration="1620000" />
+      <workItem from="1653637709521" duration="35000" />
+      <workItem from="1655001087549" duration="15332000" />
+      <workItem from="1655036321429" duration="1855000" />
+      <workItem from="1655084641944" duration="23000" />
+      <workItem from="1655112807705" duration="794000" />
+      <workItem from="1655118847275" duration="118000" />
+      <workItem from="1655639731386" duration="457000" />
+      <workItem from="1655640621546" duration="5379000" />
+      <workItem from="1655725480778" duration="6411000" />
+      <workItem from="1655983017871" duration="62000" />
+      <workItem from="1657030871609" duration="751000" />
+      <workItem from="1657032549728" duration="13000" />
+      <workItem from="1657108611449" duration="7247000" />
+      <workItem from="1657172882413" duration="2166000" />
+      <workItem from="1657263665120" duration="9173000" />
+      <workItem from="1657603787656" duration="6290000" />
+      <workItem from="1657700744599" duration="6975000" />
+      <workItem from="1657801408843" duration="7036000" />
+      <workItem from="1657872541789" duration="9588000" />
+      <workItem from="1657971271492" duration="1498000" />
+      <workItem from="1657981134012" duration="2109000" />
+      <workItem from="1658057275374" duration="6344000" />
+      <workItem from="1658119527083" duration="10643000" />
+      <workItem from="1658194105162" duration="5073000" />
+      <workItem from="1658295688025" duration="10125000" />
+      <workItem from="1658388913264" duration="2706000" />
+      <workItem from="1658393154202" duration="3204000" />
+      <workItem from="1658396439269" duration="202000" />
+      <workItem from="1658407093055" duration="1005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
